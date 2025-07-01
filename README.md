@@ -1,2 +1,2 @@
 # proxylist
-Free proxy list with HTTP/HTTPS, updated every 5 minutes
+Free proxy list with HTTP/HTTPS, updated every 6 minutes
