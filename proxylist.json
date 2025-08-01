@@ -850,6 +850,17 @@
     "anonymous": "",
     "check_count": 1,
     "fail_count": 0,
+    "https": true,
+    "last_status": true,
+    "last_time": "2025-08-01 17:30:29",
+    "proxy": "47.238.128.246:4002",
+    "region": "error",
+    "source": "freeProxy12/freeProxy13"
+  },
+  {
+    "anonymous": "",
+    "check_count": 1,
+    "fail_count": 0,
     "https": false,
     "last_status": true,
     "last_time": "2025-08-01 09:31:46",
@@ -7456,6 +7467,17 @@
     "proxy": "39.102.208.236:8090",
     "region": "error",
     "source": "freeProxy12/freeProxy13"
+  },
+  {
+    "anonymous": "",
+    "check_count": 1,
+    "fail_count": 0,
+    "https": false,
+    "last_status": true,
+    "last_time": "2025-08-01 17:30:29",
+    "proxy": "124.70.221.252:10000",
+    "region": "error",
+    "source": "freeProxy12"
   },
   {
     "anonymous": "",
@@ -19017,6 +19039,17 @@
     "proxy": "52.193.148.177:3128",
     "region": "error",
     "source": "freeProxy12/freeProxy13"
+  },
+  {
+    "anonymous": "",
+    "check_count": 1,
+    "fail_count": 0,
+    "https": false,
+    "last_status": true,
+    "last_time": "2025-08-01 17:30:29",
+    "proxy": "124.70.221.252:10443",
+    "region": "error",
+    "source": "freeProxy12"
   },
   {
     "anonymous": "",
