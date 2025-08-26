@@ -6964,6 +6964,17 @@
   },
   {
     "anonymous": "",
+    "check_count": 1,
+    "fail_count": 0,
+    "https": false,
+    "last_status": true,
+    "last_time": "2025-08-26 16:06:48",
+    "proxy": "217.21.146.245:80",
+    "region": "error",
+    "source": "freeProxy12"
+  },
+  {
+    "anonymous": "",
     "check_count": 4853,
     "fail_count": 0,
     "https": false,
